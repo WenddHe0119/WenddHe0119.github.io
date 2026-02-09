@@ -119,10 +119,10 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
   <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd><strong>Wenwen He</strong></dd>
-  <dd>Under CVPR'26 Review</dd>
+  <dd>Under Review</dd>
 </dl>
 
-<dl>
+<!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/FedPissa.png" alt="FedPissa"></dt>
   <dd><a class="submission-title">FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping</a></dd>
   <dd><strong>Wenwen He</strong></dd>
@@ -134,7 +134,7 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
   <dd><a class="submission-title">FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization</a></dd>
   <dd><strong>Wenwen He</strong></dd>
   <dd>Under Review</dd>
-</dl>
+</dl> -->
 
 <hr>
 
