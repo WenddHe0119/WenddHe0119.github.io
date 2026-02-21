@@ -118,10 +118,9 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
 
 <hr>
 
-## ⌛️ In Submission & Preprint
 
 
-<hr>
+<!-- <hr> -->
 
 <!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
@@ -130,12 +129,12 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
   <dd>Under Review</dd>
 </dl> -->
 
-<dl>
+<!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/FedPissa.png" alt="FedPissa"></dt>
   <dd><a class="submission-title">FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping</a></dd>
   <dd><strong>Wenwen He</strong></dd>
   <dd>Under Review</dd>
-</dl>
+</dl> -->
 
 <!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/FLoRA-Chef.png" alt="FLoRA-Chef"></dt>
@@ -144,7 +143,7 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
   <dd>Under Review</dd>
 </dl> -->
 
-<hr>
+<!-- <hr> -->
 
 
 # 📖 Educations
