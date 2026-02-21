@@ -106,7 +106,7 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
   <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd><strong>Wenwen He</strong>, Wenke Huang*, Yiyang Fang, Wenjie Qu, Jiaheng Zhang, Mang Ye*</dd>
-  <dd>IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</dd>
+  <dd>IEEE/CVF Conference on Computer Vision and Pattern Recognition  <strong>(CVPR)</strong>, 2026</dd>
 </dl>
 
 <dl>
