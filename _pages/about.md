@@ -91,6 +91,7 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.02:</em> ✨ Two papers were accepted to <strong>CVPR 2026</strong>.</li>
   <li><em>2025.05:</em> 🌟 SPMC was accepted to <strong>ICML 2025</strong>.</li>
 </ul>
 </div>
@@ -100,6 +101,13 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
 &dagger;: equal contribution, * : corresponding author
 
 <hr>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
+  <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
+  <dd><strong>Wenwen He</strong>, Wenke Huang*, Yiyang Fang, Wenjie Qu, Jiaheng Zhang, Mang Ye*</dd>
+  <dd>IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</dd>
+</dl>
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SPMC.png" alt="SPMC"></dt>
@@ -115,21 +123,21 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
 
 <hr>
 
-<dl>
+<!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
   <dd><a class="submission-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd><strong>Wenwen He</strong></dd>
   <dd>Under Review</dd>
-</dl>
+</dl> -->
 
-<!-- <dl>
+<dl>
   <dt><img align="left" width="400" src="../images/paper/FedPissa.png" alt="FedPissa"></dt>
   <dd><a class="submission-title">FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping</a></dd>
   <dd><strong>Wenwen He</strong></dd>
   <dd>Under Review</dd>
 </dl>
 
-<dl>
+<!-- <dl>
   <dt><img align="left" width="400" src="../images/paper/FLoRA-Chef.png" alt="FLoRA-Chef"></dt>
   <dd><a class="submission-title">FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization</a></dd>
   <dd><strong>Wenwen He</strong></dd>
