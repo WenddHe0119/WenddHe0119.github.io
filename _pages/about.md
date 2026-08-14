@@ -82,15 +82,16 @@ redirect_from:
 
 # Short Bio
 
-Hi there! This is Wenwen He (何文文), I am a first-year graduate student at [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [Guangdong University of Technology](https://www.gdut.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
+Hi there! This is Wenwen He (何文文), I am a first-year PhD student at [The College of Computing and Data Science (CCDS) at Nanyang Technological Univeristy (NTU)](https://www.ntu.edu.sg/computing), advised by Prof. [Wei Yang Bryan Lim](https://scholar.google.com/citations?user=K2CHjf0AAAAJ&hl=en). Previously, I received my Master degree from the [Wuhan University](http://tsh.whu.edu.cn/) under the supervision of Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=en) in 2026. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail！
 
-My research mainly focuses on **Federated Learning**, **Large Language Model** and **Trustworthy AI**.
+My research mainly focuses on **Federated Learning**, **Trustworthy AI** and **Multi-Agent System**.
 
 
 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.05:</em> ✨ Two papers were accepted to <strong>ICML 2026</strong>.</li>
   <li><em>2026.02:</em> ✨ Two papers were accepted to <strong>CVPR 2026</strong>.</li>
   <li><em>2025.05:</em> 🌟 SPMC was accepted to <strong>ICML 2025</strong>.</li>
 </ul>
@@ -148,5 +149,6 @@ My research mainly focuses on **Federated Learning**, **Large Language Model** a
 
 # 📖 Educations
 
-- *2024.09 - now*, Master Student, School of National Cybersecurity, Wuhan University, China.
+- *2024.08 - now*, PhD Student, Nanyang Technological University, Singapore.
+- *2024.09 - 2026.06*, Master Student, School of National Cybersecurity, Wuhan University, China.
 - *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Guangdong University of Technology, China.
